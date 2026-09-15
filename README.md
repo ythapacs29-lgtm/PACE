@@ -4,7 +4,6 @@
 
  PACE combines a student’s academic workload with a three-question Daily Pulse to create an achievable daily plan.
 
-A working student productivity demo inspired by AcuPill's calm green-and-navy visual style.
 
 ![PACE Today dashboard](docs/today.png)
 
@@ -57,9 +56,6 @@ Production TypeScript/Vite build passes. Four Node tests cover default scores, a
 
 Create a new **public**, empty repository on GitHub. Leave the GitHub README, license and .gitignore options unchecked because this local repository already contains the project files. Then, in this folder:
 
-```sh
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-git push -u origin main
-```
 
-Replace the example URL with the URL of the repository you created. Do not use your AcuPill repository unless you intentionally want PACE in that project.
+
+
