@@ -2,7 +2,7 @@
 
 **Productivity that adapts to your capacity.**
 
-Built for the TXST Shipathon by Yugal Thapa. PACE combines a student’s academic workload with a three-question Daily Pulse to create an achievable daily plan.
+ PACE combines a student’s academic workload with a three-question Daily Pulse to create an achievable daily plan.
 
 A working student productivity demo inspired by AcuPill's calm green-and-navy visual style.
 
@@ -23,16 +23,8 @@ npm run build
 npm test
 ```
 
-## 60-second demo
 
-1. **0–10 seconds:** Today shows Maya's 82 Academic Pressure and 43 Capacity. Explain the preserved urgent Calculus work and deferred essay.
-2. **10–25 seconds:** Open Daily Pulse. Set stress to 3, energy to 8 and focus to 8. Build My Day. Capacity becomes 86 and the plan changes to Deep Work with longer blocks and optional work.
-3. **25–35 seconds:** Schedule → Balance My Week. Thursday's illustrative projection changes from 91 to 72 and earlier Chemistry blocks appear.
-4. **35–45 seconds:** Learn → Active Recall → choose the first answer. Try Flashcards and reveal an answer.
-5. **45–55 seconds:** Today → Start Next Step → Start timer → Mark step complete. Open Insights to see the session reflected in activity totals.
-6. **55–60 seconds:** Click Canvas connected to demonstrate the simulated sync. The workspace is clearly marked as a demo.
-
-The sliders icon beside Maya opens presentation scenarios and Reset demo. Low pressure refers to the pulse preset; academic workload is unchanged, so its pressure remains high.
+h.
 
 ## Implemented
 
