@@ -52,9 +52,6 @@ Production TypeScript/Vite build passes. Four Node tests cover default scores, a
 
 **Future ideas:** real Canvas authorization and assignment sync, calendar-aware scheduling, longitudinal personal insights, secure account synchronization, and evaluation with students. No clinical diagnosis or proven academic/health benefit is claimed.
 
-## Publish your repository
-
-Create a new **public**, empty repository on GitHub. Leave the GitHub README, license and .gitignore options unchecked because this local repository already contains the project files. Then, in this folder:
 
 
 
